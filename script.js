@@ -8,3 +8,4 @@ const wahh = () =>{
     console.log('wah bhai')
 }
 const khan = 'kamil2';
+const rollno = [123, 456]
