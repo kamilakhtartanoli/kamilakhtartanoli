@@ -7,4 +7,4 @@ const man = () =>{
 const wahh = () =>{
     console.log('wah bhai')
 }
-const khan = 'kamil';
+const khan = 'kamil2';
