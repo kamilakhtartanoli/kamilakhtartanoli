@@ -4,3 +4,6 @@ const hello = () =>{
 const man = () =>{
     console.log('main')
 }
+const wahh = () =>{
+    console.log('wah bhai')
+}
