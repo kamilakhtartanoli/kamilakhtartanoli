@@ -16,3 +16,6 @@ function divide (){
 function gg (){
     console.log('gg')
 }
+function hey (){
+    console.log('hey ullu me kb se tujhe neechy bulla raha hoon');
+}
