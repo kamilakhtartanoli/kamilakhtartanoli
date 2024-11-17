@@ -29,12 +29,8 @@ function kha3(){
     console.log('kha a aaaa')
 }
 
-function kha3tanolikhan(){
-    console.log('kha a aaaa')
-}
-function kha3tanolikhanghgh(){
-    console.log('kha a aaaa')
-}
+const khan = 'khan 45'
+const g = [a1,b2,c3];
 
 
 
