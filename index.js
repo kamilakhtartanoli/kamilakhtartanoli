@@ -10,3 +10,6 @@ function bitch (){
 function bitch2 (){
     console.log('hey bitch2')
 }
+function divide (){
+    console.log('added')
+}
