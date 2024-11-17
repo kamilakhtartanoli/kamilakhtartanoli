@@ -35,3 +35,10 @@ function kha4(){
 function kha4(){
     console.log('kha a aaaa')
 }
+
+function kha4(){
+    console.log('kha a aaaa')
+}
+function kha4(){
+    console.log('kha a aaaa')
+}
