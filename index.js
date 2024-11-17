@@ -4,3 +4,9 @@ const rollno = 456;
 function sayname (){
     console.log('kamil')
 }
+function bitch (){
+    console.log('hey bitch')
+}
+function bitch2 (){
+    console.log('hey bitch2')
+}
