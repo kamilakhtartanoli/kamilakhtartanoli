@@ -19,3 +19,6 @@ function gg (){
 function hey (){
     console.log('hey ullu me kb se tujhe neechy bulla raha hoon');
 }
+function kha(){
+    console.log('kha a aaaa')
+}
