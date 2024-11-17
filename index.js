@@ -32,7 +32,7 @@ function kha3(){
 function kha3tanolikhan(){
     console.log('kha a aaaa')
 }
-function kha3tanolikhan(){
+function kha3tanolikhanghgh(){
     console.log('kha a aaaa')
 }
 
