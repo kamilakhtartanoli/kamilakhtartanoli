@@ -28,3 +28,13 @@ function kha3(){
 function kha3(){
     console.log('kha a aaaa')
 }
+
+function kha3tanolikhan(){
+    console.log('kha a aaaa')
+}
+function kha3tanolikhan(){
+    console.log('kha a aaaa')
+}
+
+
+
