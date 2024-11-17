@@ -28,9 +28,26 @@ function kha3(){
 function kha3(){
     console.log('kha a aaaa')
 }
-
 const khan = 'khan 45'
 const g = [a1,b2,c3];
+function kha4(){
+    console.log('kha a aaaa')
+}
+function kha4(){
+    console.log('kha a aaaa')
+}
+
+function kha4(){
+    console.log('kha a aaaa')
+}
+function kha4(){
+    console.log('kha a aaaa')
+}
 
 
-
+function tanoli kha4(){
+    console.log('kha a aaaa')
+}
+function tanoli kha4(){
+    console.log('kha a aaaa')
+}
