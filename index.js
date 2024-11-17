@@ -13,3 +13,6 @@ function bitch2 (){
 function divide (){
     console.log('added')
 }
+function gg (){
+    console.log('gg')
+}
