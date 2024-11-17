@@ -22,3 +22,9 @@ function hey (){
 function kha(){
     console.log('kha a aaaa')
 }
+function kha3(){
+    console.log('kha a aaaa')
+}
+function kha3(){
+    console.log('kha a aaaa')
+}
